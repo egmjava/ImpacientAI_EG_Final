@@ -58,6 +58,8 @@ El Registro de los valores de los signos vitales de la persona afectada, permiti
 
 ![Roadmap](varios/10.png)
 
+## Certificados
+![Roadmap](varios/10.png)
 
 ## Built with
 
