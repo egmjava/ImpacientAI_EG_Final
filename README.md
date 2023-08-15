@@ -58,8 +58,11 @@ El Registro de los valores de los signos vitales de la persona afectada, permiti
 
 ![Roadmap](varios/10.png)
 
+## 7th Place / Top Ten (+900 proyects)
+![Roadmap](varios/CallForCode2020_1.JPG)
+
 ## Certificados
-![Roadmap](varios/10.png)
+![Roadmap](varios/CallForCode2020_2.JPG)
 
 ## Built with
 
